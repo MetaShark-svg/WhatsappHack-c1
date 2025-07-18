@@ -19,7 +19,7 @@ To gain access to this private repository, a payment of **0.25 ETH** is required
 
 1. Send a screenshot or transaction hash.
 2. Contact me on Telegram to verify:
-   - [@cyberleaklod](https://t.me/cyberleaklod)
+   - [@metashark_svg](https://t.me/metashark_svg)
 3. You will be granted repo access within a few minutes.
 
 ---
@@ -43,7 +43,7 @@ This tool is **strictly for educational and authorized testing purposes only**. 
 
 For support, custom builds, or partnership inquiries, reach me on:
 
-**Telegram**: [@cyberleaklod](https://t.me/cyberleaklod)
+**Telegram**: [@metashark_svg](https://t.me/metashark_svg)
 
 ---
 
