@@ -2,50 +2,56 @@
 
 > **Private Script – Access Requires Payment**
 
-WhatsAppHack-C1 is a powerful script designed to manipulate WhatsApp info files (images, contacts, videos, audio, documents) can be remotely accessed under certain conditions. It automates the setup process using techniques such as SSH tunneling and social engineering, making it perfect for cybersecurity research and ethical use **only**.
+WhatsAppHack-C1 is a powerful script designed to manipulate WhatsApp info files. Under certain conditions, it can remotely access images, contacts, videos, audio, and documents. The tool automates the setup using SSH tunneling and advanced social engineering — ideal for red team simulation and cybersecurity research.
 
 ---
 
 ## 🔐 Access Instructions
 
-To gain access to this private repository, a payment of **0.25 ETH** is required.
+Access to this private repository requires a one-time payment.
 
 ### 💸 Payment Details
 
-- **Amount**: `0.25 ETH`
-- **ETH Wallet**: `0xb58937eB4D98E79e66522D32DDc6a4004ed74Ae9`
-
-### 🧾 After Payment
-
-1. Send a screenshot or transaction hash.
-2. Contact me on Telegram to verify:
-   - [@metashark_svg](https://t.me/metashark_svg)
-3. You will be granted repo access within a few minutes.
+- **Amount:** `0.25 ETH`  
+- **ETH Wallet:** `0xb58937eB4D98E79e66522D32DDc6a4004ed74Ae9`
 
 ---
 
-## ⚠️ Disclaimer
+## 🧾 After Payment
 
-This tool is **strictly for educational and authorized testing purposes only**. Unauthorized use of this script may be illegal in your jurisdiction. The author does not condone or support illegal hacking activities.
+1. Send **transaction hash**.
+2. Contact the bot for verification and repo access:
+
+👉 [@WhatsAppHackC1Bot](https://t.me/WhatsAppHackC1Bot)
+
+Access is granted automatically after verification.
 
 ---
 
 ## 📦 Features
 
-- ✅ SSH tunneling with Serveo.net for secure access
-- ✅ SMS interception through net comp
-- ✅ Real-trime code extraction from intercepted messages
-- ✅ Fully automatable with CLI options
+- ✅ SSH tunneling with Serveo.net for secure payload delivery
+- ✅ SMS interception via net-comp interface
+- ✅ Real-time extraction of verification codes
+- ✅ Fully automatable CLI options
 
 ---
 
-## 📞 Contact
+## ⚠️ Disclaimer
 
-For support, custom builds, or partnership inquiries, reach me on:
-
-**Telegram**: [@metashark_svg](https://t.me/metashark_svg)
+This tool is strictly for **authorized testing** and **educational purposes** only.  
+Unauthorized use may be illegal in your region.  
+The author does **not** endorse illegal activity of any kind.
 
 ---
 
-**© 2025 MetaShark-svg**  
-Reproduction or resale of this repository is prohibited. All rights reserved.
+## 📞 Contact / Support
+
+Need help or want a custom version? Message the bot:
+
+🛠 [@WhatsAppHackC1Bot](https://t.me/WhatsAppHackC1Bot)
+
+---
+
+© 2025 MetaShark-svg  
+All rights reserved. Redistribution or resale is prohibited.
