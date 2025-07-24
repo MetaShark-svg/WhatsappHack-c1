@@ -1,57 +1,63 @@
-# WhatsAppHack-C1 🚀 (v1.0)
+# 🚀 WhatsAppHack-C1 (v1.0)
 
-> **Private Script – Access Requires Payment**
+**🔒 Private Cybersecurity Tool — Access Requires Payment**
 
-WhatsAppHack-C1 is a powerful script designed to manipulate WhatsApp info files. Under certain conditions, it can remotely access images, contacts, videos, audio, and documents. The tool automates the setup using SSH tunneling and advanced social engineering — ideal for red team simulation and cybersecurity research.
-
----
-
-## 🔐 Access Instructions
-
-Access to this private repository requires a one-time payment.
-
-### 💸 Payment Details
-
-- **Amount:** `0.25 ETH`  
-- **ETH Wallet:** `0xb58937eB4D98E79e66522D32DDc6a4004ed74Ae9`
+WhatsAppHack-C1 is a powerful private script designed to manipulate WhatsApp info files. Under certain conditions, it can remotely access images, contacts, videos, audio, and documents. The tool automates the setup using SSH tunneling and advanced social engineering — ideal for red team simulation and cybersecurity research.
 
 ---
 
-## 🧾 After Payment
+## 💸 Access Instructions
 
-1. Send **transaction hash**.
-2. Contact the bot for verification and repo access:
+This repository is restricted. To unlock access:
 
-👉 [@WhatsAppHackC1Bot](https://t.me/WhatsAppHackC1Bot)
+- **Amount**: `0.25 ETH`  
+- **Wallet**: `0xb58937eB4D98E79e66522D32DDc6a4004ed74Ae9`  
+- **Bot Contact**: [@WhatsAppHackC1Bot](https://t.me/WhatsAppHackC1Bot)
 
-Access is granted automatically after verification.
+🧾 **After Payment**:
+1. Send your **transaction hash** via the bot.  
+2. Access will be verified and granted automatically.
 
 ---
 
-## 📦 Features
+## 📦 Key Features
 
-- ✅ SSH tunneling with Serveo.net for secure payload delivery
-- ✅ SMS interception via net-comp interface
+- ✅ SSH tunneling via Serveo.net for secure delivery
 - ✅ Real-time extraction of verification codes
+- ✅ SMS interception via net-comp interface
 - ✅ Fully automatable CLI options
+- ✅ Automated target's contact list access
+
+---
+
+## 🤖 Telegram Bot Commands
+
+Interact with the bot: [@WhatsAppHackC1Bot](https://t.me/WhatsAppHackC1Bot)
+
+| Command   | Function                            |
+|-----------|-------------------------------------|
+| /start    | Activate the bot                    |
+| /buy      | Show payment instructions           |
+| /access   | Verify payment and get repo access  |
+| /status   | View access status                  |
+| /help     | Show help and support               |
 
 ---
 
 ## ⚠️ Disclaimer
 
-This tool is strictly for **authorized testing** and **educational purposes** only.  
-Unauthorized use may be illegal in your region.  
-The author does **not** endorse illegal activity of any kind.
+This tool is intended strictly for **educational, forensic, or ethical penetration testing purposes**.  
+**Unauthorized use is prohibited and may be illegal in your jurisdiction.**  
+The developer assumes no liability for misuse.
 
 ---
 
-## 📞 Contact / Support
+## 📞 Support
 
-Need help or want a custom version? Message the bot:
-
-🛠 [@WhatsAppHackC1Bot](https://t.me/WhatsAppHackC1Bot)
+Need help or want a custom build?  
+Contact: [@WhatsAppHackC1Bot](https://t.me/WhatsAppHackC1Bot)
 
 ---
 
-© 2025 MetaShark-svg  
-All rights reserved. Redistribution or resale is prohibited.
+© 2025 **MetaShark-svg**  
+All rights reserved. Redistribution or resale is strictly prohibited.
