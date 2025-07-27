@@ -30,6 +30,14 @@ This repository is restricted. To unlock access:
 
 ---
 
+### ⚡ WhatsappHack-C1 v1.0 – Terminal Preview
+
+> Below is a preview of WhatsappHack-C1 in action inside a Linux terminal:
+
+![WhatsappHack-C1 Terminal](https://github.com/MetaShark-svg/WhatsappHack-c1/blob/main/WhatsappHack-C1_screenshot.png?raw=true)
+
+---
+
 ## 🤖 Telegram Bot Commands
 
 Interact with the bot: [@WhatsAppHackC1Bot](https://t.me/WhatsAppHackC1Bot)
